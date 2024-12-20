@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @colm-mchugh
-- 👀 I’m interested in programming!
-- 🌱 I’m currently learning to be patient.
+- 👋 Dia dhuit! Is mise @colm-mchugh
 - 📫 How to reach me: colm.mchugh@gmail.com
 
 <!---
